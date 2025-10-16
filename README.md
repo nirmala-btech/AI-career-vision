@@ -1,4 +1,6 @@
+# 🎯 AI CareerVision
 
+Smarter career decisions using your skills, interests, and AI.
 
 🔍 Get personalized career suggestions based on:
 - Python/programming
